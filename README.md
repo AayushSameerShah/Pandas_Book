@@ -10,5 +10,7 @@ I have used some inappropriate words when some new thing appeared or some code s
 ## The books:
 Books are written in an incremental way, so from the first cell you can read & understand the code and execute in the chronological manner. No need to find some peice of data from anywhere else.
 
+**REMEMBER** to clone the repository. I have made a nice graphic in starting of each notebook with text. ***Which is not visible*** in the preview in GitHub. Clonning anf running in your local machine will make it visible and more worth of my time.
+
 Thanks, <br>
 Aayush ∞ Shah
